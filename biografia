@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biografía de Sergio Coronado</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header h1 {
+            text-align: center;
+        }
+        .bio {
+            padding: 20px;
+            background: #fff;
+            margin-top: 20px;
+        }
+        .bio h1 {
+            text-align: center;
+        }
+        .bio p {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Biografía de Sergio Coronado</h1>
+        </div>
+    </header>
+    <div class="container bio">
+        <h1>Sobre mí</h1>
+        <p>[Hola, soy Sergio, estoy tratando de terminar de cursar la carrera de Ingeniería en Sistemas, soy casado, tengo 2 hijas y eso a veces complica un poco el cumplimiento del objetivo.]</p>
+        <h2>Mis Retos</h2>
+        <p>[Mi reto personal es graduarme de ingeniero, para ser ejemplo para mis hijas; así también, poder mejorarles la calidad de vida saliendo de mi zona de confort y produciendo más económicamente.]</p>
+        <h2>Mis Pasatiempos</h2>
+        <p>[Me gusta ver películas y jugar basquet ball, ambas actividades las realizo con mis hijas.]</p>
+        <h2>Experiencia profesional</h2>
+        <p>[Trabajo como técnico de Soporte para el Organismo Judicial en el departamento de Alta Verapaz]</p>
+    </div>
+</body>
+</html>
